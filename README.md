@@ -14,3 +14,4 @@ Pada Aplikasi ini telah menerapkan
 ====================
 ![Sertifikat Kelulusan IDCamp 2023 Flutter level Expert](https://github.com/user-attachments/assets/df4d1e29-9586-4ea0-afb8-914aaf486541)
 ----------------------------
+![rating4proyekakhirstoryapp](https://github.com/user-attachments/assets/ad0fed08-19b1-48c8-982e-c9a9545d1051)
